@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align=center>
   <details>
     <summary>
-      <h4>ABOUT ME 🌱</h4>
+      <h4>ABOUT ME&nbsp;&nbsp;🔍</h4>
     </summary>
     ~~~
   </details>
