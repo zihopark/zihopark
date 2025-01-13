@@ -48,18 +48,18 @@ Here are some ideas to get you started:
 <br><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambwit&layout=donut&show_icons=true&theme=panda&bg_color=20232a&hide_border=true&count_private=true" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zihopark&layout=donut&show_icons=true&theme=panda&bg_color=20232a&hide_border=true&count_private=true" width=38% />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=iambwit&show_icons=true&theme=panda&bg_color=20232a&hide_border=true&count_private=true" width=56% />
+  <img src="https://github-readme-stats.vercel.app/api?username=zihopark&show_icons=true&theme=panda&bg_color=20232a&hide_border=true&count_private=true" width=56% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iambwit&theme=github&bg_color=20232a&hide_border=true&line=4DA1AB&color=4DA1AB" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zihopark&theme=github&bg_color=20232a&hide_border=true&line=4DA1AB&color=4DA1AB" width=94%/>
 </a>
 <br><br>
 
 <div align=center>
-<a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiambwit&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+<a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzihopark&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 </div>
 <br><br>
 
