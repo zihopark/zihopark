@@ -20,7 +20,7 @@ Here are some ideas to get you started:
         <h4>ABOUT ME&nbsp;🔍</h4>
       </summary>
     
-    ~~~
+    https://boiled-chips-35d.notion.site/176801b9b5168042b48ef8bd36c77d77
   </details>
 </div>
 <br>
