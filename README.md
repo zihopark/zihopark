@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&section=header&text=Jiho&nbsp;Park&fontSize=60&fontColor=FFFFFF" width="100%"/>
-
+<!--
 <div align=center>
   <details>
       <summary>
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     https://boiled-chips-35d.notion.site/176801b9b5168042b48ef8bd36c77d77
   </details>
 </div>
-<br>
+<br>-->
 
 <div align=center><h4>📚 MY SKILL SETS</h4></div>
 
